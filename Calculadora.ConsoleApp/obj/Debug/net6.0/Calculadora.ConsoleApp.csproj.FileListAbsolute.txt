@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.exe
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.deps.json
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\refint\Calculadora.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.pdb
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Documentos\Academia2023\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\net6.0\ref\Calculadora.ConsoleApp.dll
